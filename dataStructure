@@ -1,0 +1,26 @@
+- AVL Tree
+    - TNode: << account >>
+        - id: int
+        - username: string
+        - Queue: Array --> Activities (likes, posts, comments, shares)
+    
+    public:
+        insert()
+        delete(Node)
+        search()
+        print()
+
+-----------------------
+
+Queue:
+    -
+    -
+    -
+
+    public:
+		insert()
+		delete()
+		search()
+		print()
+
+-----------------------
